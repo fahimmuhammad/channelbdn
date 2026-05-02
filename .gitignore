@@ -1,0 +1,24 @@
+# Database credentials — never commit
+config.php
+
+# Uploaded media files
+/uploads/
+/assets/img/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# XAMPP / server
+*.log
+error_log
+php_errorlog
+
+# Cache
+*.cache

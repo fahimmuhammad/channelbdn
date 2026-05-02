@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /config.php
+Disallow: /db_migrate.php
+Disallow: /db_roles_migrate.php
+Disallow: /includes/
+Disallow: /search.php?q=
+
+Sitemap: https://channelbdn.com/sitemap.php
