@@ -48,6 +48,12 @@ Access at `http://localhost/channelbdn/admin/`
 
 Default credentials are set during installation.
 
+## Author
+
+**MD Fahim Munshi**
+- GitHub: [@fahimmuhammad](https://github.com/fahimmuhammad)
+- BSc in Computer Science, Independent University Bangladesh (IUB)
+
 ## License
 
 MIT
